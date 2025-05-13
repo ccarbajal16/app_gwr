@@ -334,7 +334,7 @@ variogram_plot <- ggplot(data = as.data.frame(variogram_model),
   )
 
 # Save the plot
-ggsave(file.path("plots", "experimental_variogram_torobamba.png"),
+ggsave(file.path("plots", "experimental_variogram.png"),
        variogram_plot,
        width = 8,
        height = 6,
