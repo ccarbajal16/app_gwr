@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="400"
+   height="300"
+   viewBox="0 0 400 300"
+   version="1.1"
+   id="svg25"
+   sodipodi:docname="gwr_logo.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs25">
+    <linearGradient
+       id="swatch49"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#ff0000;stop-opacity:0.99590164;"
+         offset="0"
+         id="stop49" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#swatch49"
+       id="linearGradient49"
+       x1="151.75438"
+       y1="128.02632"
+       x2="247.80702"
+       y2="128.02632"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview25"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="2.28"
+     inkscape:cx="200"
+     inkscape:cy="149.7807"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg25" />
+  <!-- Background -->
+  <!-- Grid lines -->
+  <g
+     stroke="#eeeeee"
+     stroke-width="1"
+     id="g12"
+     transform="translate(1.754386,-13.157895)">
+    <line
+       x1="50"
+       y1="50"
+       x2="350"
+       y2="50"
+       id="line1" />
+    <line
+       x1="50"
+       y1="100"
+       x2="350"
+       y2="100"
+       id="line2" />
+    <line
+       x1="50"
+       y1="150"
+       x2="350"
+       y2="150"
+       id="line3" />
+    <line
+       x1="50"
+       y1="200"
+       x2="350"
+       y2="200"
+       id="line4" />
+    <line
+       x1="50"
+       y1="250"
+       x2="350"
+       y2="250"
+       id="line5" />
+    <line
+       x1="50"
+       y1="50"
+       x2="50"
+       y2="250"
+       id="line6" />
+    <line
+       x1="100"
+       y1="50"
+       x2="100"
+       y2="250"
+       id="line7" />
+    <line
+       x1="150"
+       y1="50"
+       x2="150"
+       y2="250"
+       id="line8" />
+    <line
+       x1="200"
+       y1="50"
+       x2="200"
+       y2="250"
+       id="line9" />
+    <line
+       x1="250"
+       y1="50"
+       x2="250"
+       y2="250"
+       id="line10" />
+    <line
+       x1="300"
+       y1="50"
+       x2="300"
+       y2="250"
+       id="line11" />
+    <line
+       x1="350"
+       y1="50"
+       x2="350"
+       y2="250"
+       id="line12" />
+  </g>
+  <!-- Sample points -->
+  <g
+     id="g18"
+     transform="translate(-41.22807,19.298245)">
+    <circle
+       cx="160"
+       cy="160"
+       r="6"
+       fill="#333333"
+       id="circle14" />
+    <circle
+       cx="200"
+       cy="130"
+       r="6"
+       fill="#333333"
+       id="circle15" />
+    <circle
+       cx="240"
+       cy="110"
+       r="6"
+       fill="#333333"
+       id="circle16" />
+    <circle
+       cx="280"
+       cy="80"
+       r="6"
+       fill="#333333"
+       id="circle17" />
+    <circle
+       cx="320"
+       cy="70"
+       r="6"
+       fill="#333333"
+       id="circle18" />
+  </g>
+  <!-- Global regression line -->
+  <!-- Local regression curves -->
+  <!-- Weighted neighborhood -->
+  <ellipse
+     cx="199.7807"
+     cy="128.02632"
+     fill="#0066cc"
+     opacity="0.1"
+     id="circle19"
+     rx="48.026318"
+     ry="44.517544"
+     style="fill:url(#linearGradient49);stroke-width:0.462388;fill-opacity:1" />
+  <ellipse
+     cx="200.63156"
+     cy="128.85965"
+     fill="#0066cc"
+     opacity="0.1"
+     id="circle19-4"
+     rx="81.578949"
+     ry="74.12281"
+     style="fill:#aa8800;stroke-width:0.777618" />
+  <ellipse
+     cx="198.88596"
+     cy="133.28946"
+     fill="#0066cc"
+     opacity="0.1"
+     id="circle19-4-5"
+     rx="101.53508"
+     ry="95.833336"
+     style="fill:#00aa2e;fill-opacity:1;stroke-width:0.986437" />
+  <!-- Gaussian Distribution above central point -->
+  <g
+     transform="matrix(1.4323549,0.00567047,-0.00626499,1.29643,98.957888,45.474329)"
+     id="g21">
+    <!-- Normal distribution curve -->
+    <path
+       d="m 0,60 c 0,0 20,0 30,-2 10,-2 15,-8 20,-18 5,-10 8,-15 10,-20 2,-5 5,-15 10,-20 5,5 8,15 10,20 2,5 5,10 10,20 5,10 10,16 20,18 10,2 30,2 30,2"
+       fill="#0066cc"
+       fill-opacity="0.2"
+       stroke="#0066cc"
+       stroke-width="1.5"
+       id="path19" />
+    <!-- Axis -->
+    <line
+       x1="0"
+       y1="60"
+       x2="140"
+       y2="60"
+       stroke="#666666"
+       stroke-width="1"
+       id="line19" />
+    <line
+       x1="70"
+       y1="0"
+       x2="70"
+       y2="60"
+       stroke="#666666"
+       stroke-width="1"
+       id="line20" />
+    <!-- Label -->
+    <text
+       x="70"
+       y="75"
+       font-family="Arial"
+       font-size="10px"
+       text-anchor="middle"
+       fill="#666666"
+       id="text20" />
+  </g>
+  <!-- Current point highlight -->
+  <ellipse
+     cx="198.46495"
+     cy="129.5614"
+     fill="none"
+     stroke="#0066cc"
+     stroke-width="2.28593"
+     stroke-dasharray="3, 3"
+     id="circle21"
+     rx="18.843882"
+     ry="17.747358" />
+  <!-- Legend -->
+  <!-- Title -->
+  <text
+     x="209.64912"
+     y="25.175438"
+     font-family="Arial"
+     font-size="14px"
+     font-weight="bold"
+     text-anchor="middle"
+     id="text25">Geographically Weighted Regression (GWR)</text>
+  <ellipse
+     style="fill:#2b1100;stroke-width:4.23685"
+     id="path25"
+     cx="161.6228"
+     cy="192.54385"
+     rx="5.4824562"
+     ry="5.7017546" />
+  <ellipse
+     style="fill:#2b1100;stroke-width:4.23685"
+     id="path26"
+     cx="233.11403"
+     cy="186.4035"
+     rx="5.4824562"
+     ry="5.2631578" />
+  <ellipse
+     style="fill:#2b1100;stroke-width:4.23685"
+     id="path27"
+     cx="234.42982"
+     cy="155.26315"
+     rx="4.6052632"
+     ry="4.3859649" />
+  <ellipse
+     style="fill:#2b1100;stroke-width:4.23685"
+     id="path28"
+     cx="266.22806"
+     cy="146.27193"
+     rx="4.3859649"
+     ry="4.6052632" />
+  <circle
+     style="fill:#2b1100;stroke-width:4.23685"
+     id="path29"
+     cx="262.7193"
+     cy="179.38597"
+     r="3.9473684" />
+  <ellipse
+     style="fill:#2b1100;stroke-width:4.23685"
+     id="path30"
+     cx="144.07895"
+     cy="69.298248"
+     rx="4.1666665"
+     ry="4.3859649" />
+  <circle
+     style="fill:#2b1100;stroke-width:4.23685"
+     id="path31"
+     cx="130.04385"
+     cy="90.570175"
+     r="4.1666665" />
+  <ellipse
+     style="fill:#2b1100;stroke-width:4.23685"
+     id="path32"
+     cx="117.10526"
+     cy="142.98245"
+     rx="4.3859649"
+     ry="4.8245616" />
+  <circle
+     style="fill:#2b1100;stroke-width:4.23685"
+     id="path33"
+     cx="118.42105"
+     cy="103.94736"
+     r="3.9473684" />
+  <ellipse
+     style="fill:#2b1100;stroke-width:4.23685"
+     id="path34"
+     cx="151.75438"
+     cy="87.061401"
+     rx="3.9473684"
+     ry="3.7280703" />
+  <ellipse
+     style="fill:#2b1100;stroke-width:4.23685"
+     id="path35"
+     cx="141.00877"
+     cy="136.4035"
+     rx="3.7280703"
+     ry="3.5087719" />
+  <ellipse
+     style="fill:#2b1100;stroke-width:4.23685"
+     id="path36"
+     cx="191.00877"
+     cy="181.14035"
+     rx="4.6052632"
+     ry="4.8245616" />
+  <ellipse
+     style="fill:#2b1100;stroke-width:4.23685"
+     id="path37"
+     cx="237.2807"
+     cy="72.807014"
+     rx="3.9473684"
+     ry="4.3859649" />
+  <ellipse
+     style="fill:#2b1100;stroke-width:4.23685"
+     id="path38"
+     cx="207.01755"
+     cy="163.1579"
+     rx="3.5087719"
+     ry="3.9473684" />
+  <ellipse
+     style="fill:#2b1100;stroke-width:4.23685"
+     id="path39"
+     cx="173.9035"
+     cy="164.47368"
+     rx="4.1666665"
+     ry="4.3859649" />
+  <circle
+     style="fill:#2b1100;stroke-width:4.23685"
+     id="path40"
+     cx="179.82455"
+     cy="221.49123"
+     r="3.5087719" />
+  <ellipse
+     style="fill:#2b1100;stroke-width:4.23685"
+     id="path41"
+     cx="210.52632"
+     cy="197.80702"
+     rx="3.0701754"
+     ry="4.3859649" />
+  <ellipse
+     style="fill:#2b1100;stroke-width:4.23685"
+     id="path42"
+     cx="239.0351"
+     cy="135.52632"
+     rx="4.3859649"
+     ry="3.5087719" />
+  <circle
+     style="fill:#2b1100;stroke-width:4.23685"
+     id="path43"
+     cx="230.48245"
+     cy="215.13158"
+     r="4.1666665" />
+  <circle
+     style="fill:#2b1100;stroke-width:4.23685"
+     id="path44"
+     cx="145.83333"
+     cy="201.97368"
+     r="4.1666665" />
+  <circle
+     style="fill:#000902;fill-opacity:1;stroke-width:4.23685"
+     id="path49"
+     cx="222.36842"
+     cy="58.333332"
+     r="3.9473684" />
+  <ellipse
+     style="fill:#000902;fill-opacity:1;stroke-width:4.23685"
+     id="path50"
+     cx="268.20175"
+     cy="110.74561"
+     rx="4.1666665"
+     ry="4.6052632" />
+  <ellipse
+     style="fill:#000902;fill-opacity:1;stroke-width:4.23685"
+     id="path51"
+     cx="164.91228"
+     cy="72.587723"
+     rx="3.5087719"
+     ry="3.2894738" />
+  <ellipse
+     style="fill:#000902;fill-opacity:1;stroke-width:4.23685"
+     id="path52"
+     cx="133.33333"
+     cy="109.42982"
+     rx="3.5087719"
+     ry="3.7280703" />
+  <ellipse
+     style="fill:#000902;fill-opacity:1;stroke-width:4.23685"
+     id="path53"
+     cx="138.8158"
+     cy="163.1579"
+     rx="3.7280703"
+     ry="3.9473684" />
+  <ellipse
+     style="fill:#000902;fill-opacity:1;stroke-width:4.23685"
+     id="path54"
+     cx="112.9386"
+     cy="160.9649"
+     rx="3.7280703"
+     ry="3.9473684" />
+  <circle
+     style="fill:#000902;fill-opacity:1;stroke-width:4.23685"
+     id="path55"
+     cx="257.67545"
+     cy="164.25438"
+     r="3.7280703" />
+  <ellipse
+     style="fill:#000902;fill-opacity:1;stroke-width:4.23685"
+     id="path56"
+     cx="287.2807"
+     cy="139.25438"
+     rx="3.9473684"
+     ry="4.1666665" />
+  <ellipse
+     style="fill:#000902;fill-opacity:1;stroke-width:4.23685"
+     id="path57"
+     cx="252.19298"
+     cy="86.62281"
+     rx="3.5087719"
+     ry="4.1666665" />
+  <ellipse
+     style="fill:#000902;fill-opacity:1;stroke-width:4.23685"
+     id="path58"
+     cx="173.02632"
+     cy="51.096493"
+     rx="4.1666665"
+     ry="3.2894738" />
+  <ellipse
+     style="fill:#000902;fill-opacity:1;stroke-width:4.23685"
+     id="path59"
+     cx="165.35088"
+     cy="129.82455"
+     rx="2.6315789"
+     ry="2.1929824" />
+  <ellipse
+     style="fill:#000902;fill-opacity:1;stroke-width:4.23685"
+     id="path60"
+     cx="179.16667"
+     cy="148.24562"
+     rx="3.2894738"
+     ry="3.0701754" />
+  <circle
+     style="fill:#000902;fill-opacity:1;stroke-width:4.23685"
+     id="path61"
+     cx="190.78947"
+     cy="155.70175"
+     r="3.9473684" />
+  <ellipse
+     style="fill:#000902;fill-opacity:1;stroke-width:4.23685"
+     id="path62"
+     cx="169.51755"
+     cy="139.47368"
+     rx="3.7280703"
+     ry="3.5087719" />
+  <ellipse
+     style="fill:#000902;fill-opacity:1;stroke-width:4.23685"
+     id="path63"
+     cx="218.64035"
+     cy="156.14035"
+     rx="4.1666665"
+     ry="4.3859649" />
+</svg>
